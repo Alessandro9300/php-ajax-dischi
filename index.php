@@ -4,10 +4,13 @@
     <meta charset="utf-8">
     <title></title>
     <link rel="stylesheet" href="style/style.css">
+
   </head>
   <body>
     <header>
-      
+      <div class="cont-head">
+
+      </div>
     </header>
     <div class="container">
 
@@ -20,9 +23,14 @@
 
       <div class="album">
         <img src="{{immagine}}" alt="">
-        <p>{{nome}}</p>
-        <p>{{autore}}</p>
-        <p>{{anno}}</p>
+
+        <div class="info">
+
+          <p>{{nome}}</p>
+          <p>{{autore}}</p>
+          <p>{{anno}}</p>
+
+        </div>
       </div>
 
     </script>

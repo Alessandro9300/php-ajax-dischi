@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title></title>
     <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
 
   </head>
   <body>
@@ -31,6 +32,11 @@
           <p>{{anno}}</p>
 
         </div>
+
+        <div class="cerchio">
+          <i class="fas fa-play"></i>
+        </div>
+
       </div>
 
     </script>

@@ -10,6 +10,24 @@ body{
   font-size: 13px;
 }
 
+header{
+height: 65px;
+background: #282828
+}
+
+.cont-head{
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.cont-head img{
+  width: 80px;
+  height: 100%;
+}
+
 .container{
   width: 1100px;
   display: flex;
@@ -27,6 +45,11 @@ body{
   padding: 20px;
   background: #282828;
 }
+
+.album:hover{
+  cursor: pointer;
+}
+
 
 .album img{
   width: 100%;
@@ -52,5 +75,4 @@ body{
 
 .info p:nth-child(1){
   color: #ffffffde;
-
 }

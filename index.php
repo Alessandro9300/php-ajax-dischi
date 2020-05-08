@@ -9,7 +9,7 @@
   <body>
     <header>
       <div class="cont-head">
-
+        <img src="./img/spoty.png" alt="">
       </div>
     </header>
     <div class="container">
